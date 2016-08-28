@@ -1,0 +1,34 @@
+{
+  "name": "webpack-react",
+  "version": "1.0.0",
+  "description": "webpack-react staring",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanangjie/webpack-react.git"
+  },
+  "author": "hzw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanangjie/webpack-react/issues"
+  },
+  "homepage": "https://github.com/hanangjie/webpack-react#readme",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "css-loader": "^0.24.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "moment": "^2.14.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.13.0"
+  }
+}
